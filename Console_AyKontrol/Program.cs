@@ -20,7 +20,7 @@ namespace Console_AyKontrol
                     if (veri != null && aylar[ay].ToUpper() != veri.ToUpper())
                     {
                         Console.WriteLine("Hatalı Bilgi!!!!");
-
+                        //Açıklama gereksiz ama olsun.
                     }
                     else
                     {
